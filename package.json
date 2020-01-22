@@ -1,0 +1,28 @@
+{
+  "name": "static-jsx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorimori/static-jsx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gorimori/static-jsx/issues"
+  },
+  "homepage": "https://github.com/gorimori/static-jsx#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "0.10.0",
+    "@types/webpack": "4.41.2",
+    "htm": "^3.0.1",
+    "ts-loader": "6.2.1",
+    "typescript": "3.7.5",
+    "vhtml": "^2.2.0",
+    "webpack": "4.41.5",
+    "webpack-cli": "3.3.10"
+  }
+}
