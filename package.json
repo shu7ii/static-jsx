@@ -18,7 +18,7 @@
   "devDependencies": {
     "@11ty/eleventy": "0.10.0",
     "@types/webpack": "4.41.2",
-    "htm": "^3.0.1",
+    "htm": "^3.0.3",
     "ts-loader": "6.2.1",
     "typescript": "3.7.5",
     "vhtml": "^2.2.0"
