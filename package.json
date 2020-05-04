@@ -17,8 +17,8 @@
   "homepage": "https://github.com/gorimori/static-jsx#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
-    "@types/webpack": "^4.41.10",
-    "htm": "^3.0.3",
+    "@types/webpack": "^4.41.12",
+    "htm": "^3.0.4",
     "ts-loader": "^6.2.2",
     "typescript": "^3.8.3",
     "vhtml": "^2.2.0"
